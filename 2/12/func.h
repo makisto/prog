@@ -1,0 +1,10 @@
+void swap(float &x, float &y);
+void sort(float *x);
+void selection(float *x);
+void FillRand(float *x);
+void QuickSort(float *x,int l,int n);
+void InsertSort(float *x);
+void ShakerSort(float *x);
+void ShellSort(float *x);
+void HeapSort(float *x);
+int add(int &a,int &b);
